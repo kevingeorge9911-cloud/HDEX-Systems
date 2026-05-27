@@ -21,7 +21,7 @@ HDEX Q1 is a free-to-use proprietary Windows offline release for controlled, rep
 Current release:
 
 - Product: HDEX Q1
-- Version: v0.1.0
+- Version: Q1 (v0.1.0)
 - Platform: Windows x64
 - Package type: Offline ZIP
 - Signing profile: Production-assisted
