@@ -30,6 +30,18 @@ Current release:
 
 ## Download
 
+<p align="center">
+  <img
+    src="./assets/hdex-q1-getting-started.png"
+    alt="HDEX Q1 getting started workflow showing download, extraction, PowerShell version check, release verification, bundle verification, and next documentation steps"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <em>HDEX Q1 should be downloaded with its hash manifest, extracted locally, and verified before use.</em>
+</p>
+
 Use the official GitHub Release assets:
 
 - `HDEX_Q1_0.1.0_Windows_Offline_Production_Assisted.zip`
