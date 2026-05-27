@@ -1,5 +1,17 @@
 # HDEX Q1
 
+<p align="center">
+  <img
+    src="./assets/hdex-q1-mind-map.png"
+    alt="HDEX Q1 mind map showing secure execution, deterministic execution, offline-first deployment, audit verification, and developer integration"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <em>HDEX Q1 is designed around secure, deterministic, offline-first execution with audit-friendly verification and developer-focused integration.</em>
+</p>
+
 Official HDEX Q1 public release mirror.
 
 HDEX Q1 is a free-to-use proprietary Windows offline release for controlled, reproducible, and auditable local execution workflows.
