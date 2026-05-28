@@ -143,5 +143,5 @@ See `LICENSE`.
 ## Official Website
 
 ```text
-https://hdex.web.app
+[https://hdex.web.app](https://hdex-systems.web.app/)
 ```
