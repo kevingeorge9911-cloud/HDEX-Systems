@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: HDEX Q1 Security Reporting Guidance
+    url: https://hdex-systems.web.app/security
+    about: Read responsible security reporting guidance before sharing any sensitive security details.
+
+  - name: HDEX Q1 Official Website
+    url: https://hdex-systems.web.app/
+    about: Visit the official HDEX Systems website for release, documentation, privacy, license, and security information.
