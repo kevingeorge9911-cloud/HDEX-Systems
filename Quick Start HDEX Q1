@@ -11,3 +11,6 @@
 
 ```powershell
 .\hdex.exe --version
+
+Expected output:
+HDEX Q1 0.1.0
