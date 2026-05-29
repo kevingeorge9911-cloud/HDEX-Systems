@@ -29,6 +29,19 @@ Current release:
 - Signature format: Detached raw Ed25519 PEM signature
 
 ## Download
+## Quick Start
+
+1. Download both official release assets from the GitHub Release page:
+
+   - `HDEX_Q1_0.1.0_Windows_Offline_Production_Assisted.zip`
+   - `HDEX_Q1_0.1.0_FINAL_HASHES.txt`
+
+2. Extract the ZIP and open PowerShell inside the extracted `01_HDEX_Q1` directory.
+
+3. Confirm the executable version:
+
+```powershell
+.\hdex.exe --version
 
 <p align="center">
   <img
